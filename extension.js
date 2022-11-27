@@ -1,8 +1,8 @@
 class YandexSDKExtension {
     getInfo() {
       return {
-        id: 'strictequalityexample', // change this if you make an actual extension!
-        name: 'Strict Equality',
+        id: 'yandexgamessdkforturbowarp', // change this if you make an actual extension!
+        name: 'Yandex Games SDK',
         blocks: [
           {
             opcode: 'strictlyEquals',
